@@ -1,13 +1,13 @@
 package org.rgit.lesson1;
 
-class Parent_one
+class Parent_onee
 {
 	void displ1()
 	{
 	System.out.println("I am from parent_onr");
 }
 }
-class Parent_two extends Parent_one
+class Parent_two extends Parent_onee
 {   
 	void displ2()
 	{
